@@ -1,15 +1,5 @@
 jQuery Scroll Path
 ==================
-**NOTE: I am no longer maintaining this project. If anyone is interested in resurrecting this, please contact me on Twitter ([@JoelBesada](https://twitter.com/joelbesada)) or send an email to the address found on my GitHub profile.** 
-
-A jQuery plugin for defining a custom path that the browser
-follows when scrolling.
-
-Demo: http://joelb.me/scrollpath
-
-Author: Joel Besada (http://www.joelb.me)  
-Version: 1.1.1 (2012-02-20)   
-Copyright 2012, Joel Besada   
 
 MIT Licensed (http://www.opensource.org/licenses/mit-license.php)
 
